@@ -66,4 +66,6 @@ Resultado final (simpson 1/3 compuesto) 2.6666666666666665
 
 ```
 ## conclucion
+La implementación y ejecución de las reglas de integración numérica demuestran las ventajas de utilizar aproximaciones de mayor orden de polinomio. Mientras que el método del Trapecio Compuesto converge de manera lineal/cuadrática requiriendo mallas más finas (n = 256).
+La regla de Simpson 1/3 Compuesta destaca por su alta eficiencia y exactitud analítica en funciones polinómias de bajo grado, reduciendo drásticamente el costo computacional y las iteraciones necesarias para cumplir con los criterios de convergencia establecidos.
 
